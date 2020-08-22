@@ -6,7 +6,7 @@
 
  date    : 2020/08/21
 
- update : 2020/08/22 
+ update : 2020/08/22
 
 ***
 
@@ -17,6 +17,7 @@ Github pages file :
 ***
 ### sample
 
+https://kuc-arc-f.github.io/cms-make-info
 
 ***
 
